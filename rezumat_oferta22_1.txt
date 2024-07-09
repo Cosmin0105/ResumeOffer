@@ -1,0 +1,34 @@
+**Rezumat personalizat pentru oferta de job cu numărul de document 1**
+
+**Descrierea aplicației solicitate:**
+
+Aplicația își propune să ofere o platformă de livrare de alimente, care să permită clienților să caute restaurante, să plaseze comenzi, să urmărească livrarea și să primească notificări în timp real. Aplicația va avea trei ramuri esențiale: Sofer, Restaurant și Client. Fiecare ramură va avea funcționalități specifice, cum ar fi gestionarea comenzilor, urmărirea livrării și generarea rapoartelor financiare.
+
+**Tehnologiile folosite pentru dezvoltarea aplicației:**
+
+* Front-end: React cu Ionic pentru interfața utilizatorului
+* Back-end: NestJS pentru dezvoltarea aplicațiilor server-side
+* Baza de date: MongoDB/Firebase pentru stocarea datelor
+* API: API Stripe pentru plățile cu cardul și API Google Maps pentru navigare
+
+**Task-urile concrete și detaliate necesare pentru dezvoltarea aplicației:**
+
+1. Dezvoltarea aplicațiilor pentru Sofer, Restaurant și Client, cu funcționalități specifice fiecărui ramură
+2. Crearea unei diagrame logice pentru a defini arhitectura aplicației
+3. Crearea unei diagrame ER pentru a structura baza de date
+4. Realizarea unui design inițial în Figma pentru a elimina ambiguitatea legată de interfața grafică
+5. Implementarea autentificării OTP prin SMS/email pentru securitate sporită
+6. Integrarea API Stripe pentru plățile cu cardul
+7. Stocarea cardurilor pentru a facilita plățile ulterioare
+8. Opțiune de plată Ramburs pentru clienți
+9. Generarea automată a facturilor prin integrarea cu API SmartBill
+10. Crearea unei interfețe de navigare pentru Sofer
+11. Gestionarea comenzilor și a livreirilor în timp real
+12. Generarea rapoartelor financiare și analizelor pentru Sofer, Restaurant și Admin
+
+**Task-uri suplimentare:**
+
+* Generarea automată a facturilor pentru rideri, restaurante și clienți
+* Implementarea unui sistem de recenzii și evaluări pentru restaurante și livrări
+* Crearea unei funcționalități de monitorizare a comenzilor și a rezolva problemelor semnalate de utilizatori
+* Generarea de rapoarte și analize financiare pentru Admin.

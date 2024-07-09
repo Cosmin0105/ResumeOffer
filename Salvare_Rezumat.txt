@@ -1,0 +1,38 @@
+Here is a personalized summary of the job offer with the following information:
+
+**Description of the application:**
+The application consists of three essential branches: Driver, Restaurant, and Client. The application will have features such as route planning, order management, real-time tracking, and payment options.
+
+**Technologies used for development:**
+The technologies used for development are:
+
+* React for front-end development
+* Ionic for mobile app development
+* NestJS for back-end development
+* MongoDB or Firebase for database management
+* API for integrating with third-party services (e.g. Stripe for payment processing, Google Maps for navigation)
+
+**Task summary:**
+
+1. Develop the application with the following features:
+	* Driver app: accept/reject orders, real-time tracking, route planning, and navigation
+	* Restaurant app: manage menu, confirm orders, and track preparation time
+	* Client app: search for restaurants, place orders, track order status, and make payments
+	* Admin panel: manage users, restaurants, riders, and orders, and generate reports
+2. Implement payment options with Stripe API
+3. Integrate with Google Maps for navigation
+4. Develop a reporting system for financial analysis
+5. Implement an automated invoicing system (optional)
+
+**Additional tasks:**
+
+* Generate automatic invoices using SmartBill API (optional)
+* Develop a design concept in Figma (optional)
+* Create a logical diagram and ER diagram (optional)
+
+**Estimated time and cost:**
+
+* Development of the basic application: 335 hours x 2 developers = X Euro + TVA
+* Development of the basic application with additional features: 379 hours x 2 developers = X Euro + TVA
+
+Please note that the estimated time and cost may vary depending on the complexity of the project and the client's requirements.

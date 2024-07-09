@@ -1,0 +1,21 @@
+Here is a personalized summary of the job offer with number 4:
+
+**Application Description:**
+The client, a consulting and construction company, wants a custom CRM system that can be developed further after completion, with a long-term collaboration in mind. The CRM system should initially focus on the consulting side of the business, with the possibility of expanding to the construction side with material management, cash flow, etc. in the future.
+
+**Technologies Used:**
+The CRM system will be developed using modern technologies such as React for the user interface and MongoDB/Firebase for the database. Additionally, the system will be integrated with existing APIs, including SMARTBILL for automated invoicing and OpenAPI for registering new legal clients.
+
+**Task Breakdown:**
+The following tasks are required for the development of the CRM system:
+
+* Developing a basic CRM system with user roles, authentication, and integration with SMARTBILL and OpenAPI (44 working days, 2 developers)
+* Implementing a permission system for users, client management, calendar system, reporting system, and document automation (44 working days, 2 developers)
+* Integrating the CRM system with the existing website (midwork.ro) for ticketing and scheduling (100 hours, 1 developer or 40 hours, 1 developer depending on the approach)
+* Developing additional features such as a chat system for clients and multiple workspace support (80 hours, 1 developer and 40 hours, 1 developer respectively)
+
+**Additional Requirements:**
+The client also wants to automate document generation using Google Docs API, and have a system for tracking the status of each document. Furthermore, the client wants to have a system for clients to schedule appointments and send tickets through the website.
+
+**Estimated Time and Cost:**
+The estimated time for completion is 46.5 working days for the basic CRM system and 15 working days for the additional features, with a total estimated cost of X Euro + TVA.

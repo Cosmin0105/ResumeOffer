@@ -1,0 +1,34 @@
+Here is a personalized summary of the job offer:
+
+**Application Description:**
+The application consists of three essential branches: Sofer (driver), Restaurant, and Client. The application will have the following features:
+
+* Sofer: a map with the route, estimated time for pickup and delivery, and the ability to accept or decline a request from a restaurant.
+* Restaurant: order management, confirmation, and status update in real-time, with the option to see the driver's route.
+* Client: ability to see all details related to the restaurant, add products to the cart, make payments, and receive notifications for each stage of the order.
+
+**Technologies Used:**
+
+* Front-end: React with Ionic for mobile applications
+* Back-end: NestJS for server-side development
+* Database: MongoDB/Firebase for real-time database and NoSQL database management
+* API: for integrating with third-party services, such as Google Maps and Stripe for payment processing
+
+**Task List:**
+
+* Develop the three essential branches of the application
+* Implement authentication with OTP through SMS/email
+* Develop the Client application with features for searching restaurants, placing orders, and tracking delivery
+* Develop the Rider application with features for accepting or declining orders, tracking delivery, and generating financial reports
+* Develop the Restaurant application with features for managing menus, confirming orders, and generating financial reports
+* Develop the Admin application with features for managing users, restaurants, riders, and orders
+* Implement payment processing with Stripe
+* Integrate with Google Maps for navigation
+* Generate automatic invoices with SmartBill API
+* Develop a design prototype in Figma to eliminate any ambiguity regarding the graphical interface
+
+**Estimated Time and Cost:**
+
+* Basic development: 335 hours with 2 programmers (X Euro + TVA)
+* Basic development with additional suggestions: 379 hours with 2 programmers (X Euro + TVA)
+* Time of delivery is influenced by the complexity of the project and the client's requirements.

@@ -1,0 +1,42 @@
+Here is a personalized summary of the job offer with the requested information:
+
+**Application Description:**
+The application is a customized CRM/ERP system that aims to manage online orders, inventory, and material resources. It will automate the process of generating quotes, managing inventory, and tracking material usage. The system will also generate various documents, such as quality certificates, SSM documents, and performance certificates. Additionally, it will monitor cash flow, budget, and payment schedules.
+
+**Technologies used:**
+The technologies used for the development of the application are not explicitly mentioned, but based on the project description, the following tech stack can be inferred:
+
+* Front-end: likely a web-based interface using HTML, CSS, and JavaScript
+* Back-end: a server-side programming language such as PHP, Python, or Ruby, with a database management system like MySQL or PostgreSQL
+* Database: a relational database management system like MySQL or PostgreSQL, with an entity-relationship model (ERM) diagram
+
+**Task List:**
+The task list includes:
+
+1. **Order Management**:
+	* Implement an online order management system
+	* Automate the process of generating quotes
+	* Reserve inventory for 2 days after quote acceptance
+2. **Inventory Management**:
+	* Implement a material inventory management system
+	* Track material usage and restocking
+	* Automate material requisition for new orders
+3. **Document Automation**:
+	* Implement a document automation system for generating quality certificates, SSM documents, and performance certificates
+4. **Cash Flow Management**:
+	* Implement a cash flow management system
+	* Monitor current account balances and future payments and receipts
+	* Set and monitor budget limits for each month
+5. **Integration with WinMentor**:
+	* Integrate the new system with the current WinMentor software
+	* Ensure a smooth transition of data and processes
+6. **Additional Suggestions**:
+	* Implement an API for automating bank operations
+	* Synchronize financial data from the bank account
+
+**Additional Requirements:**
+
+* Implement a system for tracking and managing restorable materials
+* Automate the extraction of material requirements from inventory and restorable materials for each new order
+* Implement a system for managing and tracking inventory discrepancies
+* Integrate the system with the existing WinMentor software

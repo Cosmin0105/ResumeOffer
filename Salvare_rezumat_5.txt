@@ -1,0 +1,39 @@
+Here is a customized summary of the job offer with the requested information:
+
+**Application Description**: The client requires a custom-built ERP system to replace their current Excel-based workflow. The system should manage customer relationships, orders, inventory, and cash flow, with a focus on construction materials and public tenders.
+
+**Technologies Used**: The system will likely employ a front-end technology like React or Angular, a back-end technology like Node.js or Ruby on Rails, a database management system like MySQL or PostgreSQL, and a design tool like Figma.
+
+**Task Breakdown**:
+
+1. **Order Management**:
+	* Develop a module for manually introducing orders into the system with specific fields (e.g., quantity, price, order date).
+	* Designate a responsible person for managing material needs based on contracts and ongoing projects.
+	* Estimate material needs for each project or construction site.
+2. **Inventory Management**:
+	* Organize inventory management by construction site with fields for different sites.
+	* Implement a "Drag and Drop" system for easily transferring products, quantities, and purchase prices from orders to site management.
+	* Create a system for frequently used products to facilitate the creation of products for new sites.
+3. **Reporting**:
+	* Develop a reporting system that generates CSV reports at the end of each day/month with ordered, consumed, and cost data, both overall and by construction site.
+4. **Cash Flow Management**:
+	* Implement a system for managing budgets (BO) with the ability to set and monitor expense limits for each month.
+	* Create a module for managing and reporting expenses, including direct, indirect, and labor costs.
+	* Customize reports to provide detailed insights into expenses.
+5. **Additional Features**:
+	* Develop a system for preventing budget overspending.
+	* Implement reminders for.bill payments and receipts.
+
+**Additional Requirements**:
+
+* The system should not integrate with other software programs.
+* The client needs a responsible person to manage material needs.
+* The system should have a user-friendly interface for easy adoption.
+* The system should be able to generate reports on expenses, including direct, indirect, and labor costs.
+
+**Timeline and Cost Estimate**:
+
+* Estimated delivery time: 2-3 months
+* Cost: X EURO + TVA (with additional features) or X EURO + TVA (without additional features)
+* Number of working hours: 400 hours (with additional features) or 280 hours (without additional features)
+* Number of developers: 2
