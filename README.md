@@ -43,8 +43,10 @@ Funcționalitatea proiectului
 
 
 Exemplu de utilizare
+
     Utilizatorii trebuie sa ruleze main.py pentru  a introduce numele fișierului .docx (de exemplu, Oferta - Test 1.docx), numărul documentului și numele dorit pentru fișierul de ieșire (de exemplu, rezumat_oferta_1). Scriptul extrage informațiile cheie din document, apelează API-ul Groq pentru a genera un rezumat, și salvează rezumatul într-un fișier text cu numele specificat.
-    ![image](https://github.com/Cosmin0105/ResumeOffer/assets/120392090/9815dd30-737a-42d3-8fac-79c450f76ef9)
+    
+![image](https://github.com/Cosmin0105/ResumeOffer/assets/120392090/9815dd30-737a-42d3-8fac-79c450f76ef9)
 
 
 
