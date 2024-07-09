@@ -35,16 +35,13 @@ Instalează pachetele python-docx și groq folosind următoarele comenzi:
 
 Funcționalitatea proiectului
 
-    Extragerea conținutului din fișierul .docx: Scriptul extrage textul integral dintr-un fișier .docx specificat de utilizator.
-
-    Generarea rezumatului personalizat: Folosind API-ul Groq (Llama), scriptul creează o solicitare de completare pentru a genera un rezumat personalizat al informațiilor cheie din ofertă. Acest rezumat include detalii precum descrierea aplicației, tehnologiile utilizate și task-urile necesare pentru dezvoltare.
-
-    Salvarea rezumatului într-un fișier .txt: Rezumatul generat este salvat automat într-un fișier .txt cu numele specificat de utilizator, fără extensie.
+    -Extragerea conținutului din fișierul .docx: Scriptul extrage textul integral dintr-un fișier .docx specificat de utilizator.
+    -Generarea rezumatului personalizat: Folosind API-ul Groq (Llama), scriptul creează o solicitare de completare pentru a genera un rezumat personalizat al informațiilor cheie din ofertă. Acest rezumat include detalii precum descrierea aplicației, tehnologiile utilizate și task-urile necesare pentru dezvoltare.
+    -Salvarea rezumatului într-un fișier .txt: Rezumatul generat este salvat automat într-un fișier .txt cu numele specificat de utilizator, fără extensie.
 
 
 Exemplu de utilizare
-
-    Utilizatorii trebuie sa ruleze main.py pentru  a introduce numele fișierului .docx (de exemplu, Oferta - Test 1.docx), numărul documentului și numele dorit pentru fișierul de ieșire (de exemplu, rezumat_oferta_1). Scriptul extrage informațiile cheie din document, apelează API-ul Groq pentru a genera un rezumat, și salvează rezumatul într-un fișier text cu numele specificat.
+    Utilizatorii trebuie sa ruleze main.py pentru  a introduce numele fișierului .docx (de exemplu, Oferta - Test 1.docx), numărul documentului și numele dorit pentru fișierul de ieșire (de exemplu, rezumat_oferta_1). Scriptul extrage informațiile cheie din document,     apelează API-ul Groq pentru a genera un rezumat, și salvează rezumatul într-un fișier text cu numele specificat.
     
 ![image](https://github.com/Cosmin0105/ResumeOffer/assets/120392090/9815dd30-737a-42d3-8fac-79c450f76ef9)
 
